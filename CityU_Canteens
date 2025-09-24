@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chan Chun Yin Gin</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Self Introduction</h1>
+    <p>My name is Chan Chun Yin Gin and I am a year 3 student in <a href="http://www.cityu.edu.hk/en">City University of Hong Kong</a>, which has a lot of <a href="https://www.cityu.edu.hk/directories/catering">catering outlets</a>. My major is Linguistics and Langauge Applications. My hobbies are coding and eating.</p>
+    <img src="potato.jpeg" arc="I love eating"><img src="robot.jpeg" arc="I love coding">
+
+    <h2>My Comments on the Canteens of CityU</h2>
+    <h3>AC1</h3>
+    <ol>
+        <li>Price is cheap</li>
+        <li>Tastes cheap as well</li>
+    <h4>Ratings:🗿🗿🗿🗿/5</h4>
+    </ol>
+    <h3>AC2</h3>
+    <ol>
+        <li>Price is less affordable than AC1</li>
+        <li>Tastes similar to AC1 with less options</li>
+    </ol>
+    <h4>Ratings:☠️☠️☠️/5</h4>
+    <h3>AC3</h3>
+    <ol>
+        <li>Most expensive</li>
+        <li>Tastes similar to AC1 & AC2 with even less options</li>
+    </ol>
+    <h4>Ratings:🥀🥀/5</h4>
+</body>
+</html>
